@@ -1,0 +1,9 @@
+@media only screen and (max-width: 768px) {
+    .mid .page_scroll {
+        height: 10vh;
+        overflow-y: scroll;
+        background-color: #04aa6d;
+      }
+      
+   
+}
